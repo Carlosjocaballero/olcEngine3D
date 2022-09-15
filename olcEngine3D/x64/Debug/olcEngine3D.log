@@ -1,0 +1,5 @@
+﻿  olcEngine3D.cpp
+C:\Users\carlo\source\repos\olcEngine3D\olcEngine3D\olcConsoleGameEngine.h(759,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\carlo\source\repos\olcEngine3D\olcEngine3D\olcConsoleGameEngine.h(1099,1): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\carlo\source\repos\olcEngine3D\olcEngine3D\olcConsoleGameEngine.h(1196,1): warning C4312: 'type cast': conversion from 'DWORD' to 'olcConsoleGameEngine *' of greater size
+  olcEngine3D.vcxproj -> C:\Users\carlo\source\repos\olcEngine3D\x64\Debug\olcEngine3D.exe
